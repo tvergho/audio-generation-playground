@@ -1,0 +1,2 @@
+Generating piano pieces unconditionally using a generative adversarial network AI model.
+Listen and create samples here: rebrand.ly/tgvergho
